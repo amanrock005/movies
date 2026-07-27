@@ -29,13 +29,16 @@ Here is a list of movies that I've watched.
     <td align="center" width="25%">
       <img src="moviesImages/4.png" style="width:150px;height:200px;object-fit:cover;">
     </td>
-  </tr>
-   <tr>
     <td align="center" width="25%">
       <img src="moviesImages/5.png" style="width:150px;height:200px;object-fit:cover;">
     </td>
     <td align="center" width="25%">
       <img src="moviesImages/6.png" style="width:150px;height:200px;object-fit:cover;">
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="25%">
+      <img src="moviesImages/7.png" style="width:150px;height:200px;object-fit:cover;">
     </td>
   </tr>
 </table>
