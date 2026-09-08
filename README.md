@@ -54,5 +54,8 @@ Here is a list of movies that I've watched.
      <td align="center" width="25%">
       <img src="moviesImages/11.png" style="width:150px;height:200px;object-fit:cover;">
     </td>
+      <td align="center" width="25%">
+      <img src="moviesImages/12.png" style="width:150px;height:200px;object-fit:cover;">
+    </td>
   </tr>
 </table>
