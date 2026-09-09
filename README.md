@@ -4,7 +4,7 @@ I don't watch movies.
 
 One day, out of nowhere I decided to watch Mughal-e-Azam(still to this day I don't know the reason). After watching the film, it made me realize by not watching movies I'm missing out one of the most effective medium to tell a story. 
 
-Therefore I decide to watch movies, but not just any movies. 
+I decide to watch movies, but not just any movies. 
 
 Movies with compelling story that resonated with the human soul.
 
